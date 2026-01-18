@@ -1,5 +1,4 @@
 # pdf-question-extractor
-# pdf-question-extractor
 
 A Flask web application that automatically extracts questions from PDF files and saves them into an Excel spreadsheet. It handles both standard text-based PDFs and scanned image PDFs using OCR (Optical Character Recognition).
 
